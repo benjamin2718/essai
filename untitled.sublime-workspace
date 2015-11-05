@@ -15,9 +15,49 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 258.0,
+		"height": 212.0,
 		"selected_items":
 		[
+			[
+				"git:commit",
+				"Git: Commit"
+			],
+			[
+				"git:status",
+				"git: status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"GitStatus: Changed files"
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"git:branch",
+				"git: branch"
+			],
+			[
+				"git:",
+				"git: branch"
+			],
+			[
+				"git:log",
+				"git: log"
+			],
+			[
+				"git:s",
+				"git: status"
+			],
+			[
+				"git:S",
+				"Git: Status"
+			],
 			[
 				"git:init",
 				"Git: Init"
@@ -49,10 +89,6 @@
 			[
 				"git log",
 				"git: log"
-			],
-			[
-				"git status",
-				"GitStatus: Changed files"
 			],
 			[
 				"git init",
@@ -108,8 +144,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/benjamin/Documents/cours_4_nov"
+	],
 	"file_history":
 	[
+		"/home/benjamin/Documents/cours_4_nov/admin/COMMIT_EDITMSG.COMMIT_EDITMSG",
 		"/root/Desktop/mksfdj.css",
 		"/root/Desktop/jdmfkqsdjfm.js",
 		"/root/Desktop/page.html",
@@ -220,6 +261,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
 	},
 	"project": "untitled.sublime-project",
 	"replace":
